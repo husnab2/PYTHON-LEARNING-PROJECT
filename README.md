@@ -6,10 +6,15 @@ poetry build
 poetry install
 
 On Terminal, navigate to repo and run following commands
+
     a. Create Virtual Env ```python3 -m venv behavex-env```
+
     b. Activate Virtual Env ```source behavex-env/bin/activate```
+
     c. Install Packages ```pip3 install -r requirements.txt```
+
     or
+
     d. Install Packages ```poetry install```
 
 #### Running tests
