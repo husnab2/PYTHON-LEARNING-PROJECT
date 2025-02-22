@@ -3,7 +3,7 @@ name = "python-learning-project"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "husnab2",email = ""}
+    {name = "husnab2",email = "husnab@kainos.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"

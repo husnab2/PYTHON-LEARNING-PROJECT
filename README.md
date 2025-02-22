@@ -27,9 +27,9 @@ On Terminal, navigate to repo and run following commands
 ## behavex
 below environment variable need to be set before run tests 
 
-BEHAVEX_PATH=src/python_learning_project, 
+export BEHAVEX_PATH=src/python_learning_project, 
 
-FEATURES_PATH= src/python_learning_project
+export FEATURES_PATH= src/python_learning_project
 
 browser=chrome behavex
 https://behavex.readthedocs.io/
